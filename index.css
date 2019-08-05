@@ -1,0 +1,27 @@
+  ul{
+  background-color:brown;;
+  margin-left:auto;
+  margin-top:auto;
+  list-style:none;
+  padding:0;
+  margin:0;
+  }
+  ul li a{
+  text-decoration:none;
+  font-family:Georgia;
+  background-color:Azure;
+  color:white;
+  display:block;
+  width:8opx;
+  margin:5px;
+  padding:10px;
+  border:1px solid red;
+  text-align:center;
+  height:25px;
+  line-height:25px;
+  }
+  ul li a :hover{
+  color:black;
+  background-color:AliceBlue;
+  
+  }
